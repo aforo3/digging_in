@@ -17,6 +17,6 @@
 - 팀원 : 김민석, 권민재, 김세준, 김연수, 이아인, 정재우
 
 ## 프로젝트 설명
-|![image](https://github.com/aforo3/digging_in/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-01-02%20144309.jpg?raw=true)|![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png)|
-|:---:|:---:|
-|시작 화면|사용자 정보 화면|
+|![image](https://github.com/aforo3/digging_in/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-01-02%20144309.jpg?raw=true)|
+|:---:|
+|시작 화면|
