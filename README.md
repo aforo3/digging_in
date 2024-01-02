@@ -36,12 +36,12 @@
 - 실시간 검색 순위는 flask 서버에서 Apscheduler를 이용하여 정해진 시간마다 데이터를 수집하여 순위를 보여줍니다.
 
 ## 구현 상세 페이지
-|Home|Forest|Store|Room|Store|Room|
-|---|---|---|---|---|---|
+|Home|Forest|Store|Room|
+|---|---|---|---|
 |![image](https://github.com/aforo3/digging_in/blob/main/Category.png?raw=true)|![image](https://github.com/aforo3/digging_in/blob/main/Category2.png?raw=true)
 |![image](https://github.com/aforo3/digging_in/blob/main/sign_in.png?raw=true)|![image](https://github.com/aforo3/digging_in/blob/main/Selling.png?raw=true)|
 ![image](https://github.com/aforo3/digging_in/blob/main/Ranking.png?raw=true)|![image](https://github.com/aforo3/digging_in/blob/main/Community.png?raw=true)|
-|옥수수 농사 가능|슈팅, 두더지 잡기, 낚시 미니게임 입장 가능|물품 판매 및 구매 가능|게임 저장 가능|물품 판매 및 구매 가능|게임 저장 가능|
+|옥수수 농사 가능|슈팅, 두더지 잡기, 낚시 미니게임 입장 가능|물품 판매 및 구매 가능|게임 저장 가능|
 
 ## 버전 정보
 - node.js v18.17.1
