@@ -1,17 +1,22 @@
 <div align="center">
-<h3>Digging</h3>
-<h2>'당신의 취향을 파다'</h2>
-# 프로젝트 시작
+<h2>Digging</h2>
+<h3>'당신의 취향을 파다'</h3>
+웹사이트 'Digging'은 수집품을 C2C 거래로 수수료 발생없이 물건을 구매 및 판매 할 수 있으며,<br>공통의 관심사를 가진 사람들이 모여 커뮤니티의 장이 될 수 있는 사이트입니다.
 </div>
 
-!!!!!소스 다운로드후 아래 순서대로 실행 부탁드립니다!!!!!
-<br>
-react폴더이동후<br>
-npm i <br>
-npm run build<br>
-server.js있는폴더에서
-npm i<br>
-nodemon server.js<br>
-react폴더안에서<br>
-npm start
 
+## 목차
+  - [개요](#개요) 
+  - [프로젝트 설명](#프로젝트-설명)
+  - [프로젝트 설치 및 실행 방법](#프로젝트-설치-및-실행-방법)
+
+## 개요
+- 프로젝트명 : Digging
+- 프로젝트 지속 기간 : 2023.11.13 ~ 2023.12.22
+- 개발 엔진 및 언어 : React & Node.js & Pyton
+- 팀원 : 김민석, 권민재, 김세준, 김연수, 이아인, 정재우
+
+## 프로젝트 설명
+|![image](https://github.com/aforo3/digging_in/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-01-02%20144309.jpg?raw=true)|![image](https://user-images.githubusercontent.com/66003567/216818272-8749569b-b217-4572-9738-32b0058459f4.png)|
+|:---:|:---:|
+|시작 화면|사용자 정보 화면|
